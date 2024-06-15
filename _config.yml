@@ -23,7 +23,9 @@ github_username:  mmaibaum
 
 # Build settings
 markdown: kramdown
-theme: pages-themes/dinky@v0.2.0
+
+remote_theme: pages-themes/dinky@v0.2.0
+
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
